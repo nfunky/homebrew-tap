@@ -7,7 +7,7 @@ cask "screen-annotator" do
   desc "Lightweight macOS menu bar utility for drawing on top of your screen"
   homepage "https://github.com/nfunky/macos-screenannotator"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "ScreenAnnotator.app"
 

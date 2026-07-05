@@ -1,6 +1,6 @@
 cask "screen-annotator" do
   version "1.0.0"
-  sha256 "aaa164b378fa2af640caa844adec18f14bb23301fd9a087857f69ba210682605"
+  sha256 "d6be871ae7a19483b994da2dd32fdbf5bcc63446cda0e0d4bfd458c300195474"
 
   url "https://github.com/nfunky/macos-screenannotator/releases/download/v1.0.0/ScreenAnnotator-1.0.0-macos.zip"
   name "Screen Annotator"
